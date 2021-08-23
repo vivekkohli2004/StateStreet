@@ -7,3 +7,6 @@ However as the data (no of fields & their types) being sent & received is differ
 In particular; RandomizerClient sends, receives 1,2 fields repectively. The PrimeServer is expectedly just the opposite.
 Adding unnecessary inheritance or if-else clauses in an attempt to put them all in one class would've complicated things.
 
+
+The no of Threads used in the application (Client & Server side) are for performance on my local machine. 
+They maynot deliver the same performance on another machine.
