@@ -1,4 +1,4 @@
-* As indicated in the problem task, there are 2 separate applications running in disparate JVMs and communicating over Sockets.
+* As indicated in the problem task, there are 2 separate applications running in disparate JVMs (JRE 8) and communicating over Sockets.
 * The packages are segregated according to the fucntionality. Each class has its Javadoc highlighting its purpose.
 * Randomizer.java (Client) & PrimeHandler.java (Server) are the 2 'main' classes.
 
