@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test/java"/>
+	<classpathentry kind="lib" path="C:/Open JDK 8/jre/lib/charsets.jar"/>
+	<classpathentry kind="lib" path="C:/Open JDK 8/jre/lib/jce.jar"/>
+	<classpathentry kind="lib" path="C:/Open JDK 8/jre/lib/jfr.jar"/>
+	<classpathentry kind="lib" path="C:/Open JDK 8/jre/lib/jfxswt.jar"/>
+	<classpathentry kind="lib" path="C:/Open JDK 8/jre/lib/jsse.jar"/>
+	<classpathentry kind="lib" path="C:/Open JDK 8/jre/lib/management-agent.jar"/>
+	<classpathentry kind="lib" path="C:/Open JDK 8/jre/lib/resources.jar"/>
+	<classpathentry kind="lib" path="C:/Open JDK 8/jre/lib/rt.jar" sourcepath="C:/Open JDK 8/src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
